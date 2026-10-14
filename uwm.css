@@ -1,5 +1,6 @@
 html {
-    background-color:beige
+    background-color:beige;
+    line-height: 1.5;
 }
 
 .wrapper {
