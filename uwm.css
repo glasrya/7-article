@@ -1,0 +1,28 @@
+html {
+    background-color:beige
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.site-header {
+    background-color:rgb(195, 100, 195)
+}
+
+.site-main {
+    background-color: yellow
+}
+
+.article-section {
+    background-color: gold
+}
+
+.callout {
+    background-color:rgb(238, 144, 153)
+}
+
+.site-footer {
+    background-color:aquamarine
+}
